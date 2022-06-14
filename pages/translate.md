@@ -11,7 +11,7 @@ permalink: /translate/
 
 - [L10n Google 網路論壇](https://groups.google.com/group/chinese-l10n)
 - [L10n-tw Telegram 群組](https://telegram.me/l10n_tw)
-- L10n 的 IRC： l10n-tw @ irc.freenode.net
+- L10n 的 IRC： l10n-tw @ irc.libera.chat
 - [Github](https://github.com/l10n-tw)
 
 ## 特色專案
